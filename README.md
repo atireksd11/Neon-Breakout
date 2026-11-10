@@ -12,19 +12,22 @@ Neon Breakout is a small browser game made with HTML, CSS, and JavaScript. Move 
 
 ## Features
 
-- Canvas-based game
+- Canvas based game
 - Keyboard and mouse controls
 - Score and lives display
-- Win and game-over screens
-- Responsive page layout
+- Win and game over screens
+- Responsive page layout 
 
-## Run it locally
+## Run it 
 
-No packages or installation are needed.
+You don’t need to install any packages.
 
-1. Clone or download this repository.
+1. Download or clone this repository.
 2. Open the project folder in VS Code.
-3. Open `index.html` in a browser, or use VS Code's Live Server extension.
+3. Open `index.html` using a local server, such as the Live Server extension.
+4. Click **Start game** and play!
+
+or just open it on https://atireksd11.github.io/Neon-Breakout/ !
 
 ## Files
 
@@ -37,10 +40,18 @@ No packages or installation are needed.
 
 While making this project, I learned about HTML canvas, game loops, keyboard input, collision detection, and tracking a game's score and lives.
 
+## Screenshot
+
+This is the website's screenshot - ![MAIN IMAGE](image.png)
+
+This is the game's screenshot while playing - ![GAME IMAGE](image-1.png)
+
 ## Repository
 
 [View Neon Breakout on GitHub](https://github.com/atireksd11/Neon-Breakout)
 
 ## Credits
 
-Built as a Crescent project. [Crescent Arcade guide](https://crescent.hackclub.com/guides/arcade)
+Help used: Copilot helped in fixing errors, troubleshooting, and helping me in finding the right color hex for neon colours.
+
+Help from crescent docs: [Crescent Arcade guide](https://crescent.hackclub.com/guides/arcade)

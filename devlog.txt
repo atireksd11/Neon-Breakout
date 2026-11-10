@@ -1,0 +1,13 @@
+## November 10 (about 1 hour 30 minutes):
+
+I built the first version of Neon Breakout using HTML, CSS, and JavaScript. I set up the project files, created the canvas, and added the paddle, ball, and bricks.
+
+I added keyboard and mouse controls for the paddle, and used requestAnimationFrame to keep the game updating and drawing. I also added collisions so the ball bounces off the walls and paddle, and breaks bricks to increase the score.
+
+The game now has three lives, plus start, win, and game-over screens. I also restyled the page with softer colors, simple borders, and no glowing effects.
+
+While testing, I noticed the ball kept getting faster after hitting the paddle. Its speed also carried over after I lost a life or restarted, which made a new game harder than it should be. I fixed this by resetting the ball to its starting speed when a new game begins.
+
+While working on this, I learned more about canvas, game loops, movement, collision detection, and tracking score and lives. I tested the game as I built it.
+
+Next, I want to publish Neon Breakout with GitHub Pages and keep improving it based on how it plays.
